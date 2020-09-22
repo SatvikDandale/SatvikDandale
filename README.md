@@ -1,7 +1,7 @@
 ## Hi there! 👋 &nbsp;I'm Satvik Dandale
 
 ### 👨 All about me:
-  💡 &nbsp;I like to explore new technologies try to develop Software Architecture Soluctions.\
+  💡 &nbsp;I like to explore new technologies try to develop Software Architecture Solutions.\
   🎓 &nbsp;I'm currently studying Computer Engineering at Vishwakarma Institute of Technology, Pune.\
   🌱 &nbsp;I look forward to learn more about Natural Language Processing, Systems Design, and Microservice Architecture.\
   ✍️ &nbsp;In my free time, I am either on Netflix or learning more about Natural Language Processing.\
