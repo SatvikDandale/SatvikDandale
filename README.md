@@ -1,4 +1,4 @@
-## Hi there! 👋 &nbsp I'm Satvik Dandale
+## Hi there! 👋&nbsp I'm Satvik Dandale
 
 ### 👨 All about me:
   💡 &nbsp;I like to explore new technologies try to develop Software Architecture Soluctions.\
