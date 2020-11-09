@@ -14,7 +14,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&color=white&logoColor=yellow)&nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&color=white)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&color=white)&nbsp;
-  ![DynamoDB]https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazon&color=white)&nbsp;
+  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazon&color=white)&nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&color=white&logoColor=blue)&nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=brown&color=white)&nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C&color=white)&nbsp;
