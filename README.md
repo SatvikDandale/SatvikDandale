@@ -7,7 +7,6 @@
   ✍️ &nbsp;In my free time, I am either on Netflix or learning more about NLP or doing a something using MERN.\
   💬 &nbsp;Feel free to reach out to me if you're interesed in any of my work.\
   ✉️ &nbsp;You can shoot me an email at satvik.dandale17@vit.edu! I'll try to respond as soon as I can.
-<!--  📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 ### 🛠 &nbsp;Tech Stack
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&color=white)&nbsp;
@@ -27,9 +26,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC&color=white)&nbsp;
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255&color=white)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop&color=white)&nbsp;
-  ![XD](http://img.shields.io/badge/-xd-333333?style=flat&logo=adobe-xd&color=white)
+  ![XD](http://img.shields.io/badge/-xd-333333?style=flat&logo=adobe-xd&color=white)\
+  
 ### ⚙️ &nbsp;GitHub Analytics
-
+![View Count](https://github-views.herokuapp.com/githubViews)
 <p align="center">
 <a href="https://github.com/SatvikDandale">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SatvikDandale&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
