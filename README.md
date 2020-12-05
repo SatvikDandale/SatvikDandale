@@ -6,7 +6,7 @@
   🌱 &nbsp;I look forward to learn more about Natural Language Processing, Systems Design, and Microservice Architecture.\
   ✍️ &nbsp;In my free time, I am either on Netflix or learning more about Natural Language Processing.\
   💬 &nbsp;Feel free to reach out to me if you're interesed in any of my work.\
-  ✉️ &nbsp;You can shoot me an email at satvik.dandale17@vit.edu! I'll try to respond as soon as I can.\
+  ✉️ &nbsp;You can shoot me an email at satvik.dandale17@vit.edu! I'll try to respond as soon as I can.
 <!--  📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 ### 🛠 &nbsp;Tech Stack
@@ -20,12 +20,12 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C&color=white)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&color=white)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6&color=white)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C&color=white)\
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C&color=white)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&color=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&color=white&logoColor=black)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&color=white&logoColor=blue)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC&color=white)&nbsp;
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255&color=white)\
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255&color=white)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop&color=white)&nbsp;
   ![XD](http://img.shields.io/badge/-xd-333333?style=flat&logo=adobe-xd&color=white)
 ### ⚙️ &nbsp;GitHub Analytics
