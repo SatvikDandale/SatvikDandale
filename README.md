@@ -3,8 +3,8 @@
 ### 👨 All about me:
   💡 &nbsp;I like to explore new technologies try to develop Software Architecture Solutions.\
   🎓 &nbsp;I'm currently studying Computer Engineering at Vishwakarma Institute of Technology, Pune.\
-  🌱 &nbsp;I look forward to learn more about Natural Language Processing, Systems Design, and Microservice Architecture.\
-  ✍️ &nbsp;In my free time, I am either on Netflix or learning more about Natural Language Processing.\
+  🌱 &nbsp;I look forward to learn more about Natural Language Processing, Systems Design, and Microservice Architecture in Web.\
+  ✍️ &nbsp;In my free time, I am either on Netflix or learning more about NLP or doing a something using MERN.\
   💬 &nbsp;Feel free to reach out to me if you're interesed in any of my work.\
   ✉️ &nbsp;You can shoot me an email at satvik.dandale17@vit.edu! I'll try to respond as soon as I can.
 <!--  📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
