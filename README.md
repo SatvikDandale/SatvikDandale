@@ -38,7 +38,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SatvikDandale&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
-<img src="https://github-views.herokuapp.com/" width="0px"/>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
