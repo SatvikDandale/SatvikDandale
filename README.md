@@ -27,8 +27,8 @@
   <!--![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255&color=white)-->
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop&color=white)&nbsp;
   ![XD](http://img.shields.io/badge/-xd-333333?style=flat&logo=adobe-xd&color=white)&nbsp;
-  ![Slack](https://img.shields.io/badge/-Slack%20Api-333333?style=flat&logo=slack&logoColor=purple&color=white)&nbsp;
-  ![Atlassian](https://img.shields.io/badge/-Atlassian%20Api-333333?style=flat&logo=jira&logoColor=blue&color=white)&nbsp;
+  ![Slack](https://img.shields.io/badge/-Slack%20API-333333?style=flat&logo=slack&logoColor=purple&color=white)&nbsp;
+  ![Atlassian](https://img.shields.io/badge/-Atlassian%20API-333333?style=flat&logo=jira&logoColor=blue&color=white)&nbsp;
   
 ### ⚙️ &nbsp;GitHub Analytics
 <!--![View Count](https://github-views.herokuapp.com/githubViews) -->
