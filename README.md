@@ -16,7 +16,6 @@
   ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazon&color=white)&nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&color=white&logoColor=blue)&nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=brown&color=white)&nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C&color=white)&nbsp;
   <!--![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&color=white)&nbsp; -->
   <!--![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6&color=white)&nbsp;-->
   <!--![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C&color=white)-->
