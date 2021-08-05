@@ -14,6 +14,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&color=white)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&color=white)&nbsp;
   ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazon&color=white)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&color=white)&nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&color=white&logoColor=blue)&nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=brown&color=white)&nbsp;
   <!--![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&color=white)&nbsp; -->
