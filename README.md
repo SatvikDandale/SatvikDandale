@@ -2,11 +2,11 @@
 
 ### 👨 All about me:
   💡 &nbsp;I like to explore new technologies try to create something using MERN stack.\
-  🎓 &nbsp;I'm currently studying Computer Engineering at Vishwakarma Institute of Technology, Pune and interning at Troopr Labs Inc.\
+  🎓 &nbsp;I'm currently working as a Technology Analyst at Deutsche Bank.\
   🌱 &nbsp;I look forward to learn more about Natural Language Processing, Systems Design, and Microservice Architecture in Web.\
   ✍️ &nbsp;In my free time, I am either on Netflix or learning more about NLP or doing a something using MERN.\
   💬 &nbsp;Feel free to reach out to me if you're interesed in any of my work.\
-  ✉️ &nbsp;You can shoot me an email at satvik.dandale17@vit.edu! I'll try to respond as soon as I can.
+  ✉️ &nbsp;You can shoot me an email at satvik.dandale@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&color=white)&nbsp;
