@@ -1,34 +1,27 @@
-## Hi there! 👋 &nbsp;I'm Satvik Dandale
+## Hi there! 👋 &nbsp; I'm Satvik Dandale
 
 ### 👨 All about me:
-  💡 &nbsp;I like to explore new technologies try to create something using MERN stack.\
-  🎓 &nbsp;I'm currently working as a Technology Analyst at Deutsche Bank.\
-  🌱 &nbsp;I look forward to learn more about Natural Language Processing, Systems Design, and Microservice Architecture in Web.\
-  ✍️ &nbsp;In my free time, I am either on Netflix or learning more about NLP or doing a something using MERN.\
-  💬 &nbsp;Feel free to reach out to me if you're interesed in any of my work.\
-  ✉️ &nbsp;You can shoot me an email at satvik.dandale@gmail.com! I'll try to respond as soon as I can.
+  💡 &nbsp; I love to work on backend cloud technologies that deal with distributed systems.
+  🎓 &nbsp; I'm currently working as a Technology Analyst at Deutsche Bank where I develop solutions for applications that deal with regulatory and governance policies.\
+  🌱 &nbsp; I'm also enrolled in the Professional Cloud Architect cohort where I get to learn about architecting solutions for various industries on GCP.
+  💬 &nbsp; Feel free to reach out to me if you're interested in any of my work.\
+  ✉️ &nbsp; You can shoot me an email at satvik.dandale@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=SpringBoot&logoColor=green&color=white)&nbsp;
+  ![Spring Boot](https://img.shields.io/badge/-Red%20Hat%20OpenShift-333333?style=flat&logo=redhatopenshift&color=white&logoColor=red)&nbsp;
+  ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=GoogleCloud&color=white)&nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=brown&color=white)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&color=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&color=white&logoColor=yellow)&nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&color=white)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&color=white)&nbsp;
   ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazon&color=white)&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&color=white)&nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&color=white&logoColor=blue)&nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=brown&color=white)&nbsp;
-  <!--![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&color=white)&nbsp; -->
-  <!--![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6&color=white)&nbsp;-->
-  <!--![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C&color=white)-->
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&color=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&color=white&logoColor=black)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&color=white&logoColor=blue)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC&color=white)&nbsp;
-  <!--![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255&color=white)-->
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop&color=white)&nbsp;
-  ![XD](http://img.shields.io/badge/-xd-333333?style=flat&logo=adobe-xd&color=white)&nbsp;
-  ![Slack](https://img.shields.io/badge/-Slack%20API-333333?style=flat&logo=slack&logoColor=purple&color=white)&nbsp;
-  ![Atlassian](https://img.shields.io/badge/-Atlassian%20API-333333?style=flat&logo=jira&logoColor=blue&color=white)&nbsp;
   
 ### ⚙️ &nbsp;GitHub Analytics
 <!--![View Count](https://github-views.herokuapp.com/githubViews) -->
