@@ -9,7 +9,7 @@
 
 ### 🛠 &nbsp;Tech Stack
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=SpringBoot&logoColor=green&color=white)&nbsp;
-  ![Spring Boot](https://img.shields.io/badge/-Red%20Hat%20OpenShift-333333?style=flat&logo=redhatopenshift&color=white&logoColor=red)&nbsp;
+  ![Red Hat OpenShift](https://img.shields.io/badge/-Red%20Hat%20OpenShift-333333?style=flat&logo=redhatopenshift&color=white&logoColor=red)&nbsp;
   ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=GoogleCloud&color=white)&nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=brown&color=white)&nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&color=white)&nbsp;
@@ -17,6 +17,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&color=white)&nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&color=white&logoColor=red)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&color=white)&nbsp;
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&color=white&logoColor=red)&nbsp;
   ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazon&color=white)&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&color=white)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&color=white)&nbsp;
