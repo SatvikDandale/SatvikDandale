@@ -15,6 +15,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&color=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&color=white&logoColor=yellow)&nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&color=white)&nbsp;
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&color=white&logoColor=red)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&color=white)&nbsp;
   ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=amazon&color=white)&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&color=white)&nbsp;
