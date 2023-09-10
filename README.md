@@ -36,7 +36,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/satvik-dandale/"><img src="https://img.shields.io/badge/-Satvik%20Dandale-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:satvik.dandale17@vit.edu"><img src="https://img.shields.io/badge/-satvik.dandale17@vit.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:satvik.dandale@gmail.com"><img src="https://img.shields.io/badge/-satvik.dandale@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/satvikdandale/"><img src="https://img.shields.io/badge/-@satvikdandale-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
