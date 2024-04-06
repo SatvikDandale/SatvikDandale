@@ -2,8 +2,8 @@
 
 ### 👨 All about me:
   💡 &nbsp; I love to work on backend cloud technologies that deal with distributed systems.
-  🎓 &nbsp; I'm currently working as a Technology Analyst at Deutsche Bank where I develop solutions for applications that deal with regulatory and governance policies.\
-  🌱 &nbsp; I'm also enrolled in the Professional Cloud Architect cohort where I get to learn about architecting solutions for various industries on GCP.
+  🎓 &nbsp; I'm currently working as an Associate Software Engineer at Deutsche Bank where I develop solutions for applications that deal with regulatory and governance policies.\
+  🌱 &nbsp; I'm also enrolled in the Professional Cloud Architect cohort where I learn about architecting solutions for various industries on GCP.
   💬 &nbsp; Feel free to reach out to me if you're interested in any of my work.\
   ✉️ &nbsp; You can shoot me an email at satvik.dandale@gmail.com! I'll try to respond as soon as I can.
 
